@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T19:13:32.304Z" agent="5.0 (X11)" etag="JQNgf6PgzwtCa2TvlNLe" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T19:15:08.104Z" agent="5.0 (X11)" etag="OiC1c-rNVurkBwFN-GeD" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -413,6 +413,34 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="438.4401038884853" y="504.06378763716293" as="sourcePoint" />
             <mxPoint x="501.71572875253787" y="535.8578643762689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-233" value="Напиток" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-234" value="Ингридиент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-235" value="" style="shape=link;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-234" target="CneDcTcGh5c-E9nd7E7p-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="650" as="sourcePoint" />
+            <mxPoint x="290" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-236" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;direction=south;" connectable="0" vertex="1" parent="CneDcTcGh5c-E9nd7E7p-235">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-237" value="" style="shape=link;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-233" target="CneDcTcGh5c-E9nd7E7p-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="690" as="sourcePoint" />
+            <mxPoint x="290" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-238" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;direction=south;" connectable="0" vertex="1" parent="CneDcTcGh5c-E9nd7E7p-237">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

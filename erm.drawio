@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T19:53:06.177Z" agent="5.0 (X11)" etag="An3UQtdpaxo9BB4pTUGZ" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T19:54:00.928Z" agent="5.0 (X11)" etag="SVZQZCiDrdo8OpUvU1v4" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -505,7 +505,7 @@
           <mxGeometry x="78" y="940" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-311" value="Крепость" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="1000" width="86" height="42" as="geometry" />
+          <mxGeometry x="-40" y="760" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-312" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-306" target="CneDcTcGh5c-E9nd7E7p-311">
           <mxGeometry relative="1" as="geometry">

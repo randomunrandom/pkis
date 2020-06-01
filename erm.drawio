@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T19:04:38.913Z" agent="5.0 (X11)" etag="5X4CWe7R9qTXlKVHat0W" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T19:07:56.521Z" agent="5.0 (X11)" etag="ZHYWsoXnwy10KEQ32SaE" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -330,6 +330,18 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-7" y="16" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-129" value="Масса" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-131" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-109" target="CneDcTcGh5c-E9nd7E7p-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.23226153144105" y="212.72442198203362" as="sourcePoint" />
+            <mxPoint x="175" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-132" value="Объём" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

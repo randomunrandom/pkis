@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T18:31:35.899Z" agent="5.0 (X11)" etag="pIK5zhIppEuh7N0lvSO6" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T18:34:22.578Z" agent="5.0 (X11)" etag="CvXIBojrq00Y21pHtcEs" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,13 +100,13 @@
             <mxPoint x="740" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-32" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-32" value="Имя" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="920" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-33" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-33" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="920" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-34" value="ФИО" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-34" value="Отчество" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="920" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-18" target="CneDcTcGh5c-E9nd7E7p-30">
@@ -132,6 +132,24 @@
             <mxPoint x="941.5598961114606" y="195.93621236281024" as="sourcePoint" />
             <mxPoint x="878.2842712474621" y="164.14213562373106" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-45" value="" style="shape=link;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-1" target="CneDcTcGh5c-E9nd7E7p-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="220" as="sourcePoint" />
+            <mxPoint x="550" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-46" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CneDcTcGh5c-E9nd7E7p-45">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-47" value="" style="shape=link;html=1;rounded=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-30" target="CneDcTcGh5c-E9nd7E7p-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="180" as="sourcePoint" />
+            <mxPoint x="630" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-48" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="CneDcTcGh5c-E9nd7E7p-47">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

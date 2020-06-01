@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T19:48:09.619Z" agent="5.0 (X11)" etag="vg3RtBkMTAlN5ruWkWuD" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T19:49:16.131Z" agent="5.0 (X11)" etag="0XeIazJDhDtEY_iDbF8f" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
             <mxPoint x="318" y="1007.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-233" value="Ингридиент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-233" value="Продукт&lt;br&gt;(не алко)" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="238" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-246" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -456,7 +456,7 @@
         <mxCell id="CneDcTcGh5c-E9nd7E7p-274" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-266" target="CneDcTcGh5c-E9nd7E7p-257">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-266" value="Компонент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-266" value="Ингридиент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-267" value="Масса" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
@@ -489,7 +489,7 @@
             <mxPoint x="158" y="1007.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CneDcTcGh5c-E9nd7E7p-306" value="Ингридиент" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-306" value="Алкоголь" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="78" y="880" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-307" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T19:58:44.274Z" agent="5.0 (X11)" etag="hd-6YLI5PHMBZAA-hOMQ" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T19:59:32.234Z" agent="5.0 (X11)" etag="LdgLzMVRkxwl8PELmocp" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
     <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-5" value="Адрес" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-8" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-9" value="Город" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-80" y="40" width="80" height="40" as="geometry" />

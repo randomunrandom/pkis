@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-01T18:22:22.955Z" agent="5.0 (X11)" etag="FbhJkS6FhtIjQ_iAXhVm" version="13.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-01T18:23:52.862Z" agent="5.0 (X11)" etag="O9CdBio6ua8KjpgGqZf8" version="13.1.12" type="github">
   <diagram id="aHbsremMe60I0R5Ly1K9" name="Page-1">
-    <mxGraphModel dx="1993" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="1293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-2" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-5" value="Адрес" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-8" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-9" value="Город" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="-80" y="40" width="80" height="40" as="geometry" />
@@ -56,12 +56,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-18" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="340" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CneDcTcGh5c-E9nd7E7p-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-8" target="CneDcTcGh5c-E9nd7E7p-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="164.0449376635388" y="88.72658355138492" as="sourcePoint" />
             <mxPoint x="195" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-22" value="Дата Открытия" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-23" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-24" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-25" value="Контактный телефон" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CneDcTcGh5c-E9nd7E7p-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="CneDcTcGh5c-E9nd7E7p-25" target="CneDcTcGh5c-E9nd7E7p-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="150" as="sourcePoint" />
+            <mxPoint x="170" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
